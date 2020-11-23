@@ -191,6 +191,8 @@ Fan Controller</text>
 <wire x1="2.7" y1="13.041" x2="2.7" y2="13.257" width="0.1524" layer="21"/>
 <wire x1="2.7" y1="12.528" x2="2.7" y2="12.744" width="0.1524" layer="21"/>
 <wire x1="2.7" y1="12.015" x2="2.7" y2="12.231" width="0.1524" layer="21"/>
+<dimension x1="10.16" y1="31.35" x2="10.16" y2="1.27" x3="14.958" y3="16.31" textsize="0.8128" layer="21"/>
+<dimension x1="0" y1="1.27" x2="10.16" y2="1.27" x3="5.08" y3="-2.16" textsize="0.8128" layer="21"/>
 </plain>
 <libraries>
 <library name="adafruit">
