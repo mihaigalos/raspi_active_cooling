@@ -159,16 +159,6 @@
 <text x="1.62" y="2.187" size="1.016" layer="21" rot="R90">GND</text>
 <text x="5.13" y="27.27" size="1.016" layer="22" rot="MR0" align="center">RaspberryPi
 Fan Controller</text>
-<wire x1="2.97" y1="14.31" x2="2.7" y2="14.31" width="0.1524" layer="22" style="shortdash"/>
-<wire x1="2.16" y1="14.31" x2="1.89" y2="14.31" width="0.1524" layer="22" style="shortdash"/>
-<wire x1="1.35" y1="14.31" x2="1.08" y2="14.31" width="0.1524" layer="22" style="shortdash"/>
-<wire x1="0.54" y1="14.31" x2="0.54" y2="14.04" width="0.1524" layer="22" style="shortdash"/>
-<wire x1="0.54" y1="13.5" x2="0.54" y2="13.23" width="0.1524" layer="22" style="shortdash"/>
-<wire x1="0.54" y1="12.69" x2="0.54" y2="12.42" width="0.1524" layer="22" style="shortdash"/>
-<wire x1="0.54" y1="11.88" x2="0.54" y2="11.61" width="0.1524" layer="22" style="shortdash"/>
-<wire x1="0.54" y1="11.07" x2="0.54" y2="10.8" width="0.1524" layer="22" style="shortdash"/>
-<wire x1="1.08" y1="10.8" x2="1.35" y2="10.8" width="0.1524" layer="22" style="shortdash"/>
-<wire x1="1.89" y1="10.8" x2="2.16" y2="10.8" width="0.1524" layer="22" style="shortdash"/>
 <circle x="6.507" y="14.985" radius="0.1707625" width="0.0762" layer="21"/>
 <circle x="6.507" y="14.985" radius="0.111321875" width="0.0762" layer="21"/>
 <circle x="6.507" y="14.985" radius="0.054" width="0.0762" layer="21"/>
@@ -181,6 +171,26 @@ Fan Controller</text>
 <text x="4.266" y="25.596" size="0.8128" layer="21" rot="R90">TRIGGER</text>
 <text x="8.991" y="28.35" size="0.8128" layer="21" rot="R90">VCC</text>
 <text x="9.234" y="14.904" size="0.8128" layer="21" rot="SR180">LED</text>
+<wire x1="2.7" y1="11.664" x2="2.7" y2="11.448" width="0.1524" layer="21"/>
+<wire x1="2.7" y1="11.178" x2="2.7" y2="10.989" width="0.1524" layer="21"/>
+<wire x1="2.376" y1="10.854" x2="2.16" y2="10.854" width="0.1524" layer="21"/>
+<wire x1="1.782" y1="10.854" x2="1.566" y2="10.854" width="0.1524" layer="21"/>
+<wire x1="1.269" y1="10.854" x2="1.053" y2="10.854" width="0.1524" layer="21"/>
+<wire x1="0.783" y1="11.313" x2="0.783" y2="11.097" width="0.1524" layer="21"/>
+<wire x1="0.783" y1="11.826" x2="0.783" y2="11.61" width="0.1524" layer="21"/>
+<wire x1="0.783" y1="12.312" x2="0.783" y2="12.096" width="0.1524" layer="21"/>
+<wire x1="0.783" y1="12.798" x2="0.783" y2="12.582" width="0.1524" layer="21"/>
+<wire x1="0.783" y1="13.311" x2="0.783" y2="13.095" width="0.1524" layer="21"/>
+<wire x1="0.783" y1="13.824" x2="0.783" y2="13.608" width="0.1524" layer="21"/>
+<wire x1="0.783" y1="14.31" x2="0.783" y2="14.094" width="0.1524" layer="21"/>
+<wire x1="0.999" y1="14.499" x2="1.215" y2="14.499" width="0.1524" layer="21"/>
+<wire x1="1.566" y1="14.499" x2="1.782" y2="14.499" width="0.1524" layer="21"/>
+<wire x1="2.133" y1="14.499" x2="2.349" y2="14.499" width="0.1524" layer="21"/>
+<wire x1="2.7" y1="14.175" x2="2.7" y2="14.391" width="0.1524" layer="21"/>
+<wire x1="2.7" y1="13.608" x2="2.7" y2="13.824" width="0.1524" layer="21"/>
+<wire x1="2.7" y1="13.041" x2="2.7" y2="13.257" width="0.1524" layer="21"/>
+<wire x1="2.7" y1="12.528" x2="2.7" y2="12.744" width="0.1524" layer="21"/>
+<wire x1="2.7" y1="12.015" x2="2.7" y2="12.231" width="0.1524" layer="21"/>
 </plain>
 <libraries>
 <library name="adafruit">
